@@ -18,4 +18,5 @@ date: '2024/5/4'
 
 见官方文档 [官方文档](https://www.pixellab.ai/docs)
 
+## 常用快捷键
 ctrl + space + p 可以打开 pixellab 窗口
