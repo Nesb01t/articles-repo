@@ -1,3 +1,7 @@
 .idea
 Writerside
 Writerside/*
+*.xml
+*.list
+*.tree
+*.cfg
